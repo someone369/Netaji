@@ -1,1 +1,2 @@
 git added my doc successfully 
+git added my doc perfectly and ok
